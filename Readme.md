@@ -28,3 +28,6 @@ For instance, if you were to model the price of an apartment, you know that the 
 You want your model to only fit the pattern in the data, not the noise, because noise is stochastic, and using it for decision making would be detrimental to performance on unseen data. And we see that regularization is a way to prevent overfitting
 
 For remedy of over-fitting regularization techniques are added along with the parameters. Two most important regularization techniques in machine learning are: Dropout and Batch Normalization
+
+
+I am referring to this paper: https://arxiv.org/pdf/1903.00440.pdf  for image enhancemet
