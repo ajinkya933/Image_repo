@@ -41,3 +41,5 @@ I am not satisfied with the above definitions of Conv2D and activation function,
 
 You can also use the following Github library to visualize activations:
 https://github.com/philipperemy/keract
+
+Why to use activations: https://www.youtube.com/watch?v=HxKaLyyGq50
